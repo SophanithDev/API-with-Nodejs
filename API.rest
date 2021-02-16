@@ -1,0 +1,6 @@
+GET http://localhost:3000/departments
+
+###
+GET http://localhost:3000/contacts/2
+
+###
